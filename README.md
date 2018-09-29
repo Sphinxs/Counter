@@ -1,6 +1,6 @@
 #### Counter
 
-:roller_coaster: Simple counter in React
+:european_post_office: Simple counter in React
 
 #### Setup
 
